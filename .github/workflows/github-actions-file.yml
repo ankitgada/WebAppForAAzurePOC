@@ -20,4 +20,4 @@ jobs:
     runs-on: ubuntu-latest
     needs: Example-Actions-Job
     steps:
-      - run: "The is new job"
+      - run: echo "The is new job"
